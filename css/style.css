@@ -8,6 +8,7 @@ header {
     background-image: url(../images/pattern.png);
     background-color: rgba(78, 160, 255, 1);
     background-repeat: repeat;
+    background-position: center;
 }
 
 .title {
