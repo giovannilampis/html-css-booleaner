@@ -33,3 +33,21 @@ a {
     color: rgba(78, 160, 255, 1);
     text-decoration: none;
 }
+
+.container > p {
+    padding: 1rem 0 2rem 0;
+}
+
+table {
+    padding-top: 2rem;
+}
+
+th {
+    color: white;
+    background-color: rgba(32, 169, 229, 1);;
+}
+
+h3 {
+    color: gray;
+    margin-bottom: 1rem;
+}
