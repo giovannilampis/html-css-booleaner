@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header {
+    background-image: url(../images/pattern.png);
+    background-color: rgba(78, 160, 255, 1);
+    background-repeat: repeat;
+}
+
+.logo-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#logo-file {
+    max-width: 10%;
+    padding: 2rem 0 1rem 0;
+}
