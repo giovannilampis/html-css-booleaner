@@ -10,6 +10,10 @@ header {
     background-repeat: repeat;
 }
 
+.title {
+    padding: 1rem 0;
+}
+
 .logo-container {
     width: 80%;
     margin: 0 auto;
@@ -18,4 +22,14 @@ header {
 #logo-file {
     max-width: 10%;
     padding: 2rem 0 1rem 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+a {
+    color: rgba(78, 160, 255, 1);
+    text-decoration: none;
 }
