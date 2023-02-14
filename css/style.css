@@ -65,6 +65,10 @@ th {
     text-align: left;
 }
 
+td {
+    padding: 1rem 0;
+}
+
 .cell-lightblue {
     background-color: rgba(177, 229, 242, 1);
 }
