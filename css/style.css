@@ -10,10 +10,6 @@ header {
     background-size: 30%;
 }
 
-.title {
-    padding: 1rem 0;
-}
-
 .container {
     width: 80%;
     margin: 0 auto;
@@ -22,6 +18,10 @@ header {
 #logo-file {
     max-width: 20%;
     padding: 2rem 0 1rem 0;
+}
+
+.title {
+    padding: 1rem 0;
 }
 
 .grey {
@@ -73,19 +73,3 @@ h3 {
     color: gray;
     margin-bottom: 1rem;
 }
-
-/* .lorem {
-    color: white;
-    font-weight: bolder;
-    position: absolute;
-}
-
-.suggestion_1 > img {
-    position: relative;
-    top: 10%;
-    left: 50%;
-}
-
-.suggestion_2 {
-    position: relative;
-} */
